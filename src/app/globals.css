@@ -31,3 +31,10 @@ body {
     text-wrap: balance;
   }
 } */
+body{
+  font: 200;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+ 
+  color:violet;
+  background-color: lavender;
+}
